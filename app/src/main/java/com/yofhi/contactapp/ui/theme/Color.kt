@@ -2,10 +2,19 @@ package com.yofhi.contactapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val purple200 = Color(0xFFBB86FC)
+val purple500 = Color(0xFF6200EE)
+val purple700 = Color(0xFF3700B3)
+val teal200 = Color(0xFF03DAC5)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val purpleD5 = Color(0xFF1f1d2b)
+val purpleD3 = Color(0xFF272636)
+val purpleD1 = Color(0xFF353546)
+val purpleD0 = Color(0xFF6f6fc8)
+val redD3 = Color(0xffA44C4C)
+
+val apricot = Color(0xFFFFCDB2)
+val melon = Color(0xFFFFB4A2)
+val pastelPink = Color(0xFFE5989B)
+val engLav = Color(0xFFB5838D)
+val oldLav = Color(0xFF6D6875)
